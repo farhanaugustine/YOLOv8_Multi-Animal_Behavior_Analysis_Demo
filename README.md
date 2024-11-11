@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/886500378.svg)](https://doi.org/10.5281/zenodo.14064613)
 # Fly Behavior Analysis Using YOLOv8 Pose Estimation
 
 |Multi-Animal Pose Estimations and Behavior Analysis|
